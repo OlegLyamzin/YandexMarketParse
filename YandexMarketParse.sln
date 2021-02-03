@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YandexMarketParse.Android", "YandexMarketParse.Android\YandexMarketParse.Android.csproj", "{9C4EB4FF-D280-4136-A0FF-982E2EF5C39A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C4EB4FF-D280-4136-A0FF-982E2EF5C39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4EB4FF-D280-4136-A0FF-982E2EF5C39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C4EB4FF-D280-4136-A0FF-982E2EF5C39A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9C4EB4FF-D280-4136-A0FF-982E2EF5C39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C4EB4FF-D280-4136-A0FF-982E2EF5C39A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C4EB4FF-D280-4136-A0FF-982E2EF5C39A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85A0675F-095B-4585-8F5A-23CA7DE6B425}
+	EndGlobalSection
+EndGlobal
